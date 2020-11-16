@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amans2206x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amans2206x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-saxena-27a3411ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aman-saxena-27a3411ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman saxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aman saxena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
