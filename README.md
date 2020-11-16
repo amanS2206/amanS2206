@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Saxena</h1>
+<h1 align="center">Hi there 👋, I'm Aman Saxena</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amans2206&label=Profile%20views&color=0e75b6&style=flat" alt="amans2206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amans2206" alt="amans2206" /></a> </p>
